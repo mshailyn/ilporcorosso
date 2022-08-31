@@ -9,7 +9,7 @@ This is a mockup of an earlier project I worked on designing a restaurant websit
 
 **Tech used:** HTML, CSS, JS
 
-This project wa sheavily focused on HTML and CSS as this was language I wanted to practice at the time. I used Javascript to make the menu interactive and use one space to display 3 different menus. There is also some other Javascript and SASS but most of this was utilized from templates.
+This project wa sheavily focused on HTML and CSS as this was language I wanted to practice at the time. I used Javascript to make the menu interactive and use one space to display 5 different menus. There is also some other Javascript and SASS but most of this was utilized from templates.
 
 ## Lessons Learned:
 
